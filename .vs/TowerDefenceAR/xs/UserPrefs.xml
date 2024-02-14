@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{3307006A-B9F9-F0DB-1431-CEAA7282EE87}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Content/Scripts/RagdollManager.cs">
+    <Files>
+      <File FileName="Assets/Content/Scripts/Weapons/ProjectileLauncherWeapon.cs" Line="60" Column="15" />
+      <File FileName="Assets/Content/Tests/TestSuite.cs" Line="159" Column="31" />
+      <File FileName="Assets/Content/Scripts/Weapons/ExplosiveProjectile.cs" Line="25" Column="28" />
+      <File FileName="Assets/Content/Scripts/EnemyController.cs" Line="203" Column="36" />
+      <File FileName="Assets/Content/Scripts/Explosion.cs" Line="81" Column="44" />
+      <File FileName="Assets/Content/Scripts/RagdollManager.cs" Line="29" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../Assets/Content/Scripts/EnemyController.cs" line="201" offsetX="790" offsetY="3009" expression="audioSource" liveUpdate="False" />
+    <Watch file="../../../Assets/Content/Scripts/ProximityAimingModule.cs" line="19" offsetX="1522" offsetY="326" expression="target" liveUpdate="False" />
+    <Watch file="../../../Assets/Content/Scripts/ProximityAimingModule.cs" line="19" offsetX="1719" offsetY="187" expression="targets" liveUpdate="False" />
+    <Watch file="../../../Assets/Content/Scripts/LaserBeamWeapon.cs" line="75" offsetX="1177" offsetY="1167" expression="transform.position" liveUpdate="False" />
+    <Watch file="../../../Assets/Content/Scripts/LaserBeamWeapon.cs" line="76" offsetX="1202" offsetY="1110" expression="hit.point" liveUpdate="False" />
+    <Watch file="../../../Assets/Content/Scripts/ProximityAimingModule.cs" line="46" offsetX="909" offsetY="666" expression="hit.transform.tag" liveUpdate="False" />
+    <Watch file="../../../Assets/Content/Scripts/LaserBoltProjectile.cs" line="25" offsetX="800" offsetY="394" expression="contact.otherCollider.gameObject" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Content/Scenes/MainLevel.unity
+    guid: 58437d152d26b4db5a7ac09598dbe1d6
+  - enabled: 0
+    path: Assets/Content/Scenes/CamPermission.unity
+    guid: 8a9ea74ce94e34d349cbadf9cdde8f69
+  - enabled: 1
+    path: Assets/Content/Scenes/ARLevel.unity
+    guid: 83e2eec89b29b43948ca8bb3355abcba
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: d73c405de303f704a92063304548c901,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 317e4f60dc8c96f409755c04850a2265,
+      type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: ff02682f865369a4b981d3d166ab09c5,
+      type: 2}
+  m_UseUCBPForAssetBundles: 0
